@@ -48,7 +48,6 @@ Open [http://localhost:8000/dashboard.html](http://localhost:8000/dashboard.html
 
 > Opening `dashboard.html` directly as `file://` often blocks `fetch` in modern browsers; the server step avoids that.
 
-**Interview walkthrough:** see [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for a timed talk track, live commands, merchant switch order, and Q&A.
 
 ## Project layout
 
