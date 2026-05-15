@@ -1,0 +1,8 @@
+recon:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../data/recon.duckdb
+      threads: 4
+      schema: main

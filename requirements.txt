@@ -1,0 +1,5 @@
+duckdb
+dbt-core==1.8.3
+dbt-duckdb==1.8.1
+pandas==2.2.2
+faker==25.2.0

@@ -1,0 +1,52 @@
+state_code,state_name,has_sales_tax,sales_threshold_usd,transaction_threshold,threshold_logic,notes
+AL,Alabama,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+AK,Alaska,FALSE,,,,No statewide general sales tax (prototype simplification; local taxes may still apply).
+AZ,Arizona,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+AR,Arkansas,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+CA,California,TRUE,500000,,,California CDTFA economic nexus: sales-only threshold; no transaction count component in this prototype.
+CO,Colorado,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+CT,Connecticut,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+DE,Delaware,FALSE,,,,No statewide general sales tax (prototype simplification).
+DC,District of Columbia,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+FL,Florida,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+GA,Georgia,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+HI,Hawaii,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+ID,Idaho,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+IL,Illinois,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+IN,Indiana,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+IA,Iowa,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+KS,Kansas,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+KY,Kentucky,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+LA,Louisiana,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+ME,Maine,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+MD,Maryland,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+MA,Massachusetts,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+MI,Michigan,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+MN,Minnesota,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+MS,Mississippi,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+MO,Missouri,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+MT,Montana,FALSE,,,,No statewide general sales tax (prototype simplification).
+NE,Nebraska,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+NV,Nevada,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+NH,New Hampshire,FALSE,,,,No statewide general sales tax (prototype simplification).
+NJ,New Jersey,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+NM,New Mexico,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+NY,New York,TRUE,500000,100,AND,New York requires BOTH sales and transaction thresholds to be exceeded simultaneously.
+NC,North Carolina,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+ND,North Dakota,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+OH,Ohio,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+OK,Oklahoma,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+OR,Oregon,FALSE,,,,No statewide general sales tax (prototype simplification).
+PA,Pennsylvania,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+RI,Rhode Island,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+SC,South Carolina,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+SD,South Dakota,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+TN,Tennessee,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+TX,Texas,TRUE,500000,,,Texas Comptroller economic nexus: sales-only threshold in this prototype.
+UT,Utah,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+VT,Vermont,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+VA,Virginia,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+WA,Washington,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+WV,West Virginia,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+WI,Wisconsin,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).
+WY,Wyoming,TRUE,100000,200,OR,Default Wayfair-style economic nexus thresholds for prototype (verify current law).

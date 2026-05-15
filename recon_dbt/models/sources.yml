@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: recon_raw
+    description: Raw tables loaded from JSON by the Python prototype (generate/db_loader.py).
+    schema: main
+    tables:
+      - name: raw_stripe_charges
+      - name: raw_stripe_refunds
+      - name: raw_shopify_orders

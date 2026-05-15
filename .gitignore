@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Generated / local data (recreated by pipeline.py)
+data/recon.duckdb
+data/results.json
+data/generated/*.json
+
+# dbt
+recon_dbt/target/
+recon_dbt/dbt_packages/
+recon_dbt/logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
